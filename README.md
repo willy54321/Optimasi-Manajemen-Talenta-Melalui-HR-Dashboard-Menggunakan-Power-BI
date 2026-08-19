@@ -1,4 +1,4 @@
-# Optimizing-Talent-Management-Through-HR-Dashboard-Using-Power-BI-
+# Optimizing Talent Management Through HR Dashboard Using Power BI
 
 <img width="917" height="514" alt="image" src="https://github.com/user-attachments/assets/1cb93642-7740-4bd7-8821-1d907b7ac39a" />
 
