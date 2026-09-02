@@ -1,68 +1,65 @@
-# Optimizing Talent Management Through HR Dashboard Using Power BI
+# Optimasi Manajemen Talenta Melalui HR Dashboard Menggunakan Power BI
 
 <img width="917" height="514" alt="image" src="https://github.com/user-attachments/assets/1cb93642-7740-4bd7-8821-1d907b7ac39a" />
 
-<img width="843" height="334" alt="image" src="https://github.com/user-attachments/assets/4c679d57-c546-482f-b912-7e6b01d2e77c" />
+### 1. Ringkasan Eksekutif & Konteks Bisnis
+Manajemen modal manusia (human capital) merupakan pilar utama dalam menjaga stabilitas dan pertumbuhan organisasi. Proyek ini mengembangkan sebuah HR Dashboard terpadu yang memberikan visibilitas penuh bagi manajemen terhadap 311 total karyawan perusahaan.
 
-### 1. Executive Summary & Business Context 
-Human capital management is a key pillar in maintaining organizational stability and growth. This project developed an integrated HR dashboard that provides management with full visibility into the company 311 total employees. 
-The primary objective of this analysis was to transform raw HR data into actionable insights related to demographic distribution, recruitment effectiveness, and performance monitoring. By gaining a deep understanding of HR metrics, the HR department can shift from 
-being a mere administrative function to a strategic partner supporting the company's cost efficiency and retention of top talent. 
+Tujuan utama analisis ini adalah untuk mentransformasi data HR mentah menjadi wawasan yang dapat ditindaklanjuti terkait distribusi demografi, efektivitas rekrutmen, dan pemantauan kinerja. Dengan memiliki pemahaman yang mendalam terhadap metrik SDM, departemen HR dapat bergeser dari sekadar fungsi administratif menjadi mitra strategis yang mendukung efisiensi biaya dan retensi talenta terbaik perusahaan.
  
-### 2. Deep Dive Analysis & Key Findings 
-Based on the data visualization on the dashboard, several critical points regarding the current workforce condition were identified: 
-- Organizational Structure Health:     
-Of the total 311 personnel, 207 are active and 104 have terminated. This termination rate requires special attention to identify employee turnover patterns to prevent disruption to operational stability. 
+### 2. Analisis Mendalam & Temuan Utama 
+Berdasarkan visualisasi data pada dashboard, ditemukan beberapa poin kritis mengenai kondisi tenaga kerja saat ini:
+-	Kesehatan Struktur Organisasi:         
+Dari total 311 personil, terdapat 207 karyawan aktif dan 104 yang sudah tidak bersama perusahaan (terminated). Angka terminasi ini memerlukan perhatian khusus untuk mengidentifikasi pola pergantian karyawan (turnover) agar tidak mengganggu stabilitas operasional.
 
-- Production Department Dominance:     
-The Production Department is the largest operational unit with 209 employees and a salary allocation of IDR 12.5 million (approximately 58% of the company's total salary budget). This indicates that company productivity is highly dependent on workload management in this department. 
+-	Dominasi Departemen Produksi:        
+Departemen Production merupakan unit operasional terbesar dengan 209 karyawan dan alokasi gaji mencapai Rp12,5 Juta (sekitar 58% dari total anggaran gaji perusahaan). Hal ini menunjukkan bahwa produktivitas perusahaan sangat bergantung pada manajemen beban kerja di departemen ini.
 
-- Performance & Satisfaction Profile:     
-The majority of employees (78.14%) are in the Fully Meets performance category. In terms of job satisfaction, approximately 66% of employees are at the Acceptable to High level, indicating a fairly conducive work environment but still have room for increased engagement. 
+-	Profil Kinerja & Kepuasan:         
+Mayoritas karyawan (78,14%) berada pada kategori kinerja Fully Meets. Dari sisi kepuasan kerja, sekitar 66% karyawan berada pada level Acceptable hingga High, yang mengindikasikan lingkungan kerja yang cukup kondusif namun masih memiliki ruang untuk peningkatan keterlibatan (engagement).
 
-- Recruitment Channel Effectiveness:     
-Digital platforms such as Indeed (87 candidates) and LinkedIn (76 candidates) were the main drivers of talent acquisition, demonstrating the success of the company's branding strategy in professional media.
+-	Efektivitas Saluran Rekrutmen:         
+Platform digital seperti Indeed (87 kandidat) dan LinkedIn (76 kandidat) menjadi motor utama pengadaan talenta, menunjukkan keberhasilan strategi branding perusahaan di media profesional.
 
-### 3. Strategic Recommendations & Business Impact 
-Based on the findings above, the following strategic recommendations are proposed: 
-- Critical Department Retention Focus:     
-Conduct an audit of the work environment and workload in the Production department to reduce turnover rates, given the significant headcount and cost contribution in this area. 
+### 3. Rekomendasi Strategis & Dampak Bisnis 
+Berdasarkan temuan di atas, berikut adalah rekomendasi strategis yang diusulkan:
+-	Fokus Retensi Departemen Kritis:          
+Melakukan audit lingkungan kerja dan beban kerja pada departemen Production untuk menekan angka turnover, mengingat kontribusi headcount dan biaya yang sangat dominan di area ini.
 
-- Recruitment Budget Optimization:      
-Allocate a larger job marketing budget to Indeed and LinkedIn, as these two platforms have been proven to provide the most effective talent volume.
+-	Optimalisasi Anggaran Rekrutmen:          
+Mengalokasikan anggaran pemasaran lowongan kerja lebih besar pada Indeed dan LinkedIn, karena kedua platform ini terbukti memberikan volume talenta yang paling efektif.
 
-- Targeted Performance Interventions:      
-Conduct specific monitoring and coaching programs for employees in the Needs Improvement or PIP (Performance Improvement Plan) category to minimize the negative impact on team morale and productivity.
+-	Intervensi Kinerja Tepat Sasaran:          
+Melakukan pemantauan khusus dan program bimbingan bagi karyawan dalam kategori Needs Improvement atau PIP (Performance Improvement Plan) untuk meminimalkan dampak negatif terhadap moral tim dan produktivitas.
 
-- Engagement Strengthening Program:      
-Use "Acceptable" satisfaction data to design employee wellness programs to encourage them to move up to the "Very High" satisfaction level. 
-
-### 4. Visual Analytics Breakdown 
-This dashboard is structured using visual elements that facilitate quick decision making: 
-- Workforce Status Cards:     
-Displays key metrics such as total headcount, active employees, and gender in real-time.
+-	Program Penguatan Engagement:         
+Menggunakan data tingkat kepuasan yang "Acceptable" untuk merancang program kesejahteraan karyawan guna mendorong mereka naik ke level kepuasan "Very High".
+ 
+### 4. Rincian Analitik Visual 
+Dashboard ini disusun menggunakan elemen visual yang memudahkan pengambilan keputusan cepat:
+-	Kartu Status Tenaga Kerja:    
+Menampilkan metrik utama seperti total headcount, karyawan aktif, dan gender secara real-time.
 <p align="center">
 <img width="735" height="83" alt="image" src="https://github.com/user-attachments/assets/cc590344-9629-4fab-9feb-0d56c675d01d" />
 </p>
 
-- Recruitment Source (Bar Chart):     
-Comparing the effectiveness of different recruitment channels to guide strategic hiring policies.
+-	Sumber Perekrutan (Grafik Batang):     
+Membandingkan efektivitas berbagai saluran rekrutmen untuk memandu kebijakan strategi hiring.
 <p align="center">
 <img width="412" height="243" alt="image" src="https://github.com/user-attachments/assets/43d8ff15-f6d8-4897-aecd-ddf1c9c3db3f" />
 </p>
 
-- Departmental Salary & Headcount:     
-Visualization of budget distribution and number of personnel per division to monitor HR cost efficiency. 
+-	Gaji & Jumlah Personel Departemen:     
+Visualisasi distribusi anggaran dan jumlah personel per divisi untuk memantau efisiensi biaya SDM.
 <p align="center">
 <img width="184" height="253" alt="image" src="https://github.com/user-attachments/assets/f51ef459-c7ee-4cb0-8f75-99e9af13d594" />
 </p>
 
-- Performance & Satisfaction Donuts:     
-Provides a quick overview of the collective moral health and productivity of the workforce. 
+-	Kinerja dan Kepuasan (Donuts):     
+Memberikan gambaran cepat mengenai kesehatan moral dan produktivitas tenaga kerja secara kolektif.
 <p align="center">
 <img width="341" height="210" alt="image" src="https://github.com/user-attachments/assets/111b3f4a-977a-4813-afcd-a0a757fcde55" />
 </p>
 
-### 5. Conclusion 
-Overall, the organization has a healthy human resource foundation, with a majority of its employees performing well. The strategic challenge for HR Managers going forward is to strengthen retention programs in high-load departments and optimize existing recruitment 
-channels. With this data-driven approach, the company can ensure every talent decision is based on objective facts to support long-term business sustainability. 
+### 5. Kesimpulan
+Secara keseluruhan, organisasi memiliki fundamental SDM yang sehat dengan mayoritas karyawan yang berkinerja baik. Tantangan strategis bagi HR Manager ke depannya adalah memperkuat program retensi pada departemen dengan beban kerja tinggi dan mengoptimalkan kanal rekrutmen yang sudah ada. Dengan pendekatan berbasis data ini, perusahaan dapat memastikan setiap keputusan terkait talenta didasarkan pada fakta objektif untuk mendukung keberlanjutan bisnis jangka panjang
